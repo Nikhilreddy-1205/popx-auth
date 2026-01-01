@@ -13,9 +13,11 @@ Modern React mobile UI clone of PoPX app onboarding screens
  
  Responsive + smooth navigation
 
-Tech Stack
-jsx
-React 18 • CSS Grid/Flexbox • useState Hooks • Mobile-First Design
+Technolgies used
+React
+JavaScript(ES6+)
+Vite
+Html & CSS
 
 Quick Start
 
