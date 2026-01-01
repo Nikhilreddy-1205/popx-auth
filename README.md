@@ -18,20 +18,15 @@ jsx
 React 18 • CSS Grid/Flexbox • useState Hooks • Mobile-First Design
 
 Quick Start
-bash
-# Clone repo
-git clone https://github.com/YOUR_USERNAME/popx-auth-ui-clone.git
-cd popx-auth-ui-clone
 
 # Install
 npm install
 
-# Run dev server
-npm start
+# Run server
 Live Demo: https://app.netlify.com/projects/stately-horse-5e2688/overview
 
  Project Structure
-text
+
 src/
 ├── App.js          
 ├── App.css        
